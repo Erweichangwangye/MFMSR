@@ -1,4 +1,4 @@
-# MFMSR
+# MFMSR:Multi-Scale Feature Aggregation Mamba for Remote Sensing Image Super-Resolution
 In recent years, conventional neural networks such as CNNs and Transformers have achieved
 substantial progress in remote sensing image super-resolution. Nevertheless, the exploration of
 Mamba networks in this domain remains limited. Directly applying Mamba to remote sensing
